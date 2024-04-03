@@ -1,4 +1,5 @@
 # card-game-test
 
-npm i
-npm run dev
+## To start project locally:
+* npm i
+* npm run dev
