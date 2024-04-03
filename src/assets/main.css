@@ -1,0 +1,12 @@
+@import './base.css';
+
+body {
+  background-color: #0c0e1c;
+  display: flex;
+}
+
+#app {
+  margin: 0 auto;
+  font-weight: normal;
+  align-self: flex-end;
+}
